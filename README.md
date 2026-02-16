@@ -38,7 +38,7 @@ Orion implements specific logic for different Discord Quest requirements:
 1. Open Discord (Desktop App or Chrome/Edge Browser).
 2. Press `Ctrl + Shift + I` to open the **Developer Tools**.
 3. Go to the **Console** tab.
-4. Paste the code from `orion-fixed.js` and hit **Enter**.
+4. Paste the code from `index.js` and hit **Enter**.
 5. Monitor the console for progress logs.
 
 ## ⚠️ Important Notes
